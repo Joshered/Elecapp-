@@ -13,7 +13,7 @@
         <div class="container p-5">
             <div class="justify-content-end">
                 <div class="row">
-                    <label for="" class="d-none d-lg-inline col-lg-4">4 bandes</label>
+                    <label for="" class="d-none d-lg-inline col-lg-2">4 bandes</label>
                     <label for="nbr11" class="col-md-4  my-md-5 mt-5 h-25 d-lg-none">Premier chiffre significatif</label>
                     <select class="col-md-7 col-lg-2 mt-3 my-md-5 h-25" name="dnbr11" id="dnbr11" >
                         <option value="" style="background-color: maroon;" class="text-light">Marron</option>

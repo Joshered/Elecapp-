@@ -8,19 +8,16 @@
                 <div class="collapse navbar-collapse justify-content-end" id="menu">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="#" class="nav-link ms-3">Calcul</a>
+                            <a href="index.php" class="nav-link ms-3">Calcul</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle ms-3" data-bs-toggle="dropdown">Plus</a>
+                            <a href="#" class="nav-link dropdown-toggle ms-3" data-bs-toggle="dropdown">Code de couleurs de resistance</a>
                             <ul class="dropdown-menu">
-                                <li><a href="couleurs.php" class="dropdown-item">Code de couleur</a></li>
-                                <li><a href="#" class="dropdown-item">Couplage des rèsistances</a></li>
-                                <li><a href="#" class="dropdown-item">Champ magnetique</a></li>
+                                <li><a href="couleurs.php" class="dropdown-item">Avec 4 bandes</a></li>
+                                <li><a href="couleurs1.php" class="dropdown-item">Avec git5 bandes</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link ms-3">Documentation</a>
-                        </li>
+                        
                         <li class="nav-item">
                             <a href="#" class="nav-link ms-3">à propos</a>
                         </li>
