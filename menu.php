@@ -1,4 +1,4 @@
-<header>
+
         
         <nav class="navbar navbar-expand-lg bg-light ">
             <div class="container">
@@ -13,7 +13,7 @@
                         <li class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle ms-3" data-bs-toggle="dropdown">Plus</a>
                             <ul class="dropdown-menu">
-                                <li><a href="#" class="dropdown-item">Code de couleur</a></li>
+                                <li><a href="couleurs.php" class="dropdown-item">Code de couleur</a></li>
                                 <li><a href="#" class="dropdown-item">Couplage des rèsistances</a></li>
                                 <li><a href="#" class="dropdown-item">Champ magnetique</a></li>
                             </ul>
