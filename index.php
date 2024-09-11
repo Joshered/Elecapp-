@@ -34,7 +34,7 @@
                         <option value="">Rèsistance</option>
                     </select>
                     <span class=" col-0 col-md-6"></span>
-                    <button type="button" class="btn btn-primary col-2 mt-4" >solution</button>
+                    <button type="button" class="btn btn-primary col-2 mt-4" >Sgiolution</button>
                 </div>
             </div>
         </div>
